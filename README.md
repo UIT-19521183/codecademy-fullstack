@@ -1,1 +1,1 @@
-# codecademy-fullstack
+# codecademy-front-end
