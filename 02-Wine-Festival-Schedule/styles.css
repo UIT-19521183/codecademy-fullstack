@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: Oswald;
+    color: white;
+    background-color: #242f44;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 2em;
+    padding: 0.67em;
+    font-weight: normal;
+    color: #8c6b48;
+    background-color: white;
+}
+
+h2{
+    font-size: 1.5em;
+    padding: 0.75em;
+    font-weight: normal;
+    color: #8c6b48;
+    background-color: white;
+}
+
+h3{
+    font-size: 1.15em;
+    padding: 0.83em;
+
+}
+
+table {
+    border: 2px solid #8c6b48;
+    border-collapse: collapse;
+    margin: 1em auto;
+}
+
+th, td {
+    border: 2px solid #8c6b48;  
+}
+
+footer {
+    position: fixed;
+    bottom: 10px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+footer>h3{
+    margin: 0 
+}
